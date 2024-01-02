@@ -1,0 +1,58 @@
+body {
+    background: rgb(155, 153, 153);
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+ul {
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+}
+.navbar {
+    background-color: black;
+    width: 2100px;
+    margin-left: 50%;
+    padding: 10px;
+}
+li {
+    margin: 0 10px 0 10px;
+    font-size: 30px;
+    color: white;
+    display: inline-block;
+}
+.logo {
+    margin-left: 5%;
+}
+a {
+    text-decoration: none;
+}
+a:hover {
+    text-decoration: underline;
+}
+.signup-form {
+    display: flex;
+    margin: 25%;
+    padding: 50px;
+}
+.signup-button {
+ color: blue;
+ width: 100px;
+ height: 50px;
+ border-radius: 7px;
+}
+.signup-form-form {
+    margin: 0 auto;
+}
+.you_signed_up {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+} 
+.article-box {
+    background-color: black;
+    width: 800px;
+    height: 400px;
+}
