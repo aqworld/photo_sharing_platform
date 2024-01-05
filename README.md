@@ -1,4 +1,4 @@
-Outline for a photo sharing website
+#**Outline of a website where you can upload photos **
 
   Not fully functional, you are unable to view and share photos 
 
