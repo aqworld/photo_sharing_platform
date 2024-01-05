@@ -1,5 +1,5 @@
 
-  #**Outline of a website where you can upload photos**
+  ## **Outline of a website where you can upload photos**
 
   Not fully functional, you are unable to view and share photos 
 
